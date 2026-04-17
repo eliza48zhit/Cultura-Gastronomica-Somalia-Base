@@ -31,4 +31,5 @@ Preparación: Cocción por absorción donde el grano se hidrata con aceites esen
 Capilaridad Grano: 95
 
 🐈 Nota de Autoría
+
 🐈 Nota del Gato Builder: Registro #31 sellado. En Somalia, si el arroz no huele a historia y el grano no ha absorbido cada gota de sabor, el sistema no está optimizado. Mi código en Base ahora certifica esa capilaridad. ¡Treinta y un países asegurados! 🐾
